@@ -1,5 +1,17 @@
 # OSLab-11
 
+1)
+
+
+
+link : https://stackoverflow.com/questions/68101788/exception-in-tkinter-callback-typeerror-in-python
+
+
+---------------------------------------------------------
+
+
+2)
+
 
 Latex:
 
